@@ -1,2 +1,2 @@
-💒 Undergraduate Research Student
+#💒 Undergraduate Research Student
 Prepare monthly undergraduate research student activities
